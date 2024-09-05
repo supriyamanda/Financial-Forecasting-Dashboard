@@ -1,4 +1,4 @@
-# **S&P 500 Financial Forecasting Dashboard**
+#  **Financial Forecasting Dashboard Using Tableau**
 
 ## **Project Overview**
 
