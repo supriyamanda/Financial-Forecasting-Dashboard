@@ -66,6 +66,7 @@ The primary data visualization and analysis were performed using Tableau Desktop
 
 2. **Access Tableau Workbook**
 - Open the Tableau workbook file (`.twbx`) in Tableau Desktop to explore the dashboard.
+- Tableau public link: https://public.tableau.com/views/FinancialForcastingDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 3. **Data Source**
 - The data source (`.csv` file) is already connected within the Tableau workbook. Ensure the file path matches when opening on a new machine.
